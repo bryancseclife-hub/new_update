@@ -1,8 +1,7 @@
 def main():
-    print("OMG HI")
-    print("OMG HI HI")
-    print("1,2,3,4,5")
-    
+    print("OMG OMG IT WOOOOOOOOORKS INCREDIBLE")
+    print("TESTING UPLOADS TO GITHUB")
+    print("UPLOADS for  UPDATES")
     
 if __name__ == '__main__':
     main()
