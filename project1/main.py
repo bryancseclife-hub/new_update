@@ -1,6 +1,6 @@
 def main():
-    print("55x11")
-    print(55*11)	
+    print("999X999")
+    print(999*999)	
 
     
 if __name__ == '__main__':
